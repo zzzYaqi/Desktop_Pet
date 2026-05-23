@@ -9,7 +9,18 @@ Built for fun, in Python + PyQt5. Kept public as a portfolio entry
 because the same project taught me Qt event handling, frameless
 windows, and Windows-API quirks I keep coming back to.
 
-![Screenshot](screenshot.png)
+<p align="center">
+  <img src="Deskpet_Beeswax/deskpet/right/idle/0.png"  width="180" alt="Beeswax">
+  <img src="Deskpet_Lappland/deskpet/right/idle/0.png" width="180" alt="Lappland">
+  <img src="Deskpet_Magallan/magallan/right/idle/0.png" width="180" alt="Magallan">
+</p>
+<p align="center">
+  <i>Three Arknights-themed companions — Beeswax · Lappland · Magallan.
+  Each renders as a transparent, always-on-top, frameless window so the
+  character appears to live directly on your desktop. Every character
+  has a full set of <code>idle / move / sit / sleep / poke / drop / skill / attack</code>
+  animation states in both left- and right-facing variants.</i>
+</p>
 
 ## Stack
 
